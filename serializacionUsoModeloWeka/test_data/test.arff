@@ -1,0 +1,9 @@
+@relation test_tenis
+
+@attribute ﻿surface {Hard,Clay,Grass}
+@attribute 0rank numeric
+@attribute 1rank numeric
+@attribute winner {0rank,1rank}
+
+@data
+Hard,175,68,?
